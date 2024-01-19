@@ -1,8 +1,8 @@
 import React from 'react'
-import { Nav } from '../components/Nav'
-import { Box, Button, Flex, Text, useMediaQuery } from '@chakra-ui/react'
+
+import {   Flex, useMediaQuery } from '@chakra-ui/react'
 import { FirstElem } from '../components/FirstElem'
-import MyCarousel from '../components/Slick'
+
 import SimpleSlider from '../components/Slick'
 import FirstCarousalData from '../utils/FirstCarousalData'
 import SecondCaraosalData from '../utils/SecondCarausalData'
